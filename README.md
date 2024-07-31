@@ -12,3 +12,5 @@ Libraries used:
 - nbformat
 
 Data source: [500th most subscribed youtube channels](https://www.kaggle.com/datasets/ritiksharma07/top-500-most-subscribed-youtube-channels-june24)
+
+Notebook: https://www.kaggle.com/code/ericrc/eda-and-prediction
